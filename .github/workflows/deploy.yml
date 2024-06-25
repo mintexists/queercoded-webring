@@ -3,7 +3,7 @@ name: Deploy The Pages :3c
 on:
   workflow_dispatch:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
 permissions:
   contents: read
