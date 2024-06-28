@@ -40,16 +40,6 @@
         "path": "/webrings"
     },
     {
-        "id": 252,
-        "author": "SarahGreyWolf",
-        "date": "023-11-16 14:46:29.09",
-        "domain": "blog.sarahgreywolf.dev",
-        "enabled": true,
-        "https": true,
-        "name": "Grey Wolf Haven",
-        "path": "/"
-    },
-    {
         "id": 151,
         "author": "Queer Coded Staff",
         "date": "023-11-15 23:13:12.57",
@@ -74,7 +64,7 @@
         "author": "cinnamon",
         "date": "023-12-09 07:23:56.84",
         "domain": "cinnamondev.github.io",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "cinnamondev",
         "path": "/"
