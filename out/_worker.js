@@ -1,5 +1,9 @@
 import data from "./db.json"
 
+function mod(n, m) {
+	return ((n % m) + m) % m;
+}
+
 export default {
 	async fetch(request, env, ctx) {
 		let req = new URL(request.url)
@@ -10,10 +14,10 @@ export default {
 				return new Response("hey the source isnt right", {status: 404})
 			}
 			let direction = req.pathname == "/next" ? 1 : -1 
-			let nextIndex = (currentIndex + direction) % data.length
+			let nextIndex = mod((currentIndex + direction), data.length)
 			let site = data[nextIndex]
 			while (site.enabled == false) {
-				nextIndex = (nextIndex + direction) % data.length
+				nextIndex = mod((nextIndex + direction), data.length)
 				site = data[nextIndex]	
 			}
 			const siteUrl = `${site.https ? 'https://' : 'http://'}${site.domain}${site.path}`
