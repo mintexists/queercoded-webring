@@ -14,7 +14,7 @@
         "author": "June",
         "date": "023-12-10 01:23:54.03",
         "domain": "www.justwestofjune.com",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "June's Site",
         "path": "/"
@@ -24,7 +24,7 @@
         "author": "Fox",
         "date": "024-04-29 02:15:22.94",
         "domain": "falsefox.dev",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "Falsefox",
         "path": "/"
