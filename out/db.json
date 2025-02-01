@@ -14,7 +14,7 @@
         "author": "June",
         "date": "023-12-10 01:23:54.03",
         "domain": "www.justwestofjune.com",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "June's Site",
         "path": "/"
@@ -24,7 +24,7 @@
         "author": "Fox",
         "date": "024-04-29 02:15:22.94",
         "domain": "falsefox.dev",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "Falsefox",
         "path": "/"
@@ -67,6 +67,16 @@
         "enabled": false,
         "https": true,
         "name": "cinnamondev",
+        "path": "/"
+    },
+    {
+        "id": 400,
+        "author": "Zoë Bijl",
+        "date": "025-02-01 23:58:56.84",
+        "domain": "moiety.me",
+        "enabled": true,
+        "https": true,
+        "name": "moiety.me",
         "path": "/"
     },
     {
