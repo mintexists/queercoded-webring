@@ -90,6 +90,16 @@
         "path": "/"
     },
     {
+        "id": 402,
+        "author": "Shiny",
+        "date": "025-02-12 23:58:56.84",
+        "domain": "github.com",
+        "enabled": true,
+        "https": true,
+        "name": "ShinySentry Security",
+        "path": "/shinysentry1137"
+    },
+    {
         "id": 352,
         "author": "Lucy",
         "date": "023-12-10 01:11:25.39",
