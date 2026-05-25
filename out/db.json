@@ -139,16 +139,4 @@
         "name": "aivi.party!",
         "path": "/"
     },
-    {
-        "id": 1002,
-        "author": "Many-Named Angel",
-        "date": "today",
-        "domain": "null-version-nova.github.io",
-        "enabled": true,
-        "https": true,
-        "name": "Heavensent Mystery",
-        "path": "/"
-    }
-
-
 ]
