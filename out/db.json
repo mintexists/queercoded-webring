@@ -129,7 +129,7 @@
         "name": "UnstableStrafe's Axolotl Tank",
         "path": "/hell"
     },
-        {
+    {
         "id": 1001,
         "author": "aivi",
         "date": "today",
@@ -138,6 +138,17 @@
         "https": true,
         "name": "aivi.party!",
         "path": "/"
+    },
+    {
+        "id": 1002,
+        "author": "Many-Named Angel",
+        "date": "today",
+        "domain": "null-version-nova.github.io",
+        "enabled": true,
+        "https": true,
+        "name": "Heavensent Mystery",
+        "path": "/"
     }
+
 
 ]
