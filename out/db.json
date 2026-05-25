@@ -128,5 +128,16 @@
         "https": true,
         "name": "UnstableStrafe's Axolotl Tank",
         "path": "/hell"
+    },
+        {
+        "id": 1001,
+        "author": "aivi",
+        "date": "today",
+        "domain": "aivi.party",
+        "enabled": true,
+        "https": true,
+        "name": "aivi.party!",
+        "path": "/"
     }
+
 ]
