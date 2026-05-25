@@ -54,7 +54,7 @@
         "author": "spaceavenue",
         "date": "023-11-17 11:29:03.6",
         "domain": "spaceavenue.net",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "Sanya's Terminal",
         "path": "/"
@@ -77,7 +77,7 @@
         "enabled": true,
         "https": true,
         "name": "moiety.me",
-        "path": "/"
+        "path": "/about"
     },
     {
         "id": 401,
@@ -94,7 +94,7 @@
         "author": "Shiny",
         "date": "025-02-12 23:58:56.84",
         "domain": "shinysentry1137.github.io",
-        "enabled": true,
+        "enabled": false,
         "https": true,
         "name": "ShinySentry Security",
         "path": "/website"
