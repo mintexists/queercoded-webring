@@ -27,7 +27,7 @@ const template = sites => `<!DOCTYPE html>
         </thead>
         <tbody>
         ${sites.map(site => {
-            return `
+            return !site.enabled ? '' : `
             <tr>
                 <th><a href="${site.https ? 'https://' : 'http://'}${site.domain}${site.path}">${site.name}</a></th>
                 <th>${site.author}</th>
