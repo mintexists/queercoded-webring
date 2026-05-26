@@ -14,7 +14,7 @@
         "author": "June",
         "date": "023-12-10 01:23:54.03",
         "domain": "westofjune.com",
-        "enabled": false,
+        "enabled": true,
         "https": true,
         "name": "june",
         "path": "/"
