@@ -138,5 +138,15 @@
         "https": true,
         "name": "aivi.party!",
         "path": "/"
+    },
+    {
+        "id": 1002,
+        "author": "Lemon",
+        "date": "today",
+        "domain": "lambdalemon.gay",
+        "enabled": true,
+        "https": true,
+        "name": "LambdaLemon",
+        "path": "/"
     }
 ]
