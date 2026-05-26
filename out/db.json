@@ -148,5 +148,15 @@
         "https": true,
         "name": "LambdaLemon",
         "path": "/"
+    },
+        {
+        "id": 69420,
+        "author": "we all made this together :)",
+        "date": "today",
+        "domain": "webbedsight.nekoweb.org",
+        "enabled": true,
+        "https": true,
+        "name": "WEBBED SIGHT",
+        "path": "/MY%20COOL%20SITE.html"
     }
 ]
