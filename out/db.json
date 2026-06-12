@@ -149,7 +149,7 @@
         "name": "LambdaLemon",
         "path": "/plain"
     },
-        {
+    {
         "id": 69420,
         "author": "we all made this together :)",
         "date": "today",
@@ -158,5 +158,16 @@
         "https": true,
         "name": "WEBBED SIGHT",
         "path": "/MY%20COOL%20SITE.html"
+    },
+    {
+        "id": 69420,
+        "author": "Heegles",
+        "date": "today",
+        "domain": "glorpus.com",
+        "enabled": true,
+        "https": true,
+        "name": "Glorpus",
+        "path": "/"
     }
+
 ]
