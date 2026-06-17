@@ -168,6 +168,16 @@
         "https": true,
         "name": "Glorpus",
         "path": "/"
+    },
+    {
+        "id": 69420,
+        "author": "Zach",
+        "date": "tomorrow",
+        "domain": "zachwaffwaff.codeberg.page",
+        "enabled": true,
+        "https": true,
+        "name": "Zach's super cool website",
+        "path": "/"
     }
 
 ]
