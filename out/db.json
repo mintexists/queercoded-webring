@@ -54,7 +54,7 @@
         "author": "spaceavenue",
         "date": "023-11-17 11:29:03.6",
         "domain": "spaceavenue.net",
-        "enabled": false,
+        "enabled": true,
         "https": true,
         "name": "Sanya's Terminal",
         "path": "/"
