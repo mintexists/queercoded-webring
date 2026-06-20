@@ -147,7 +147,7 @@
         "enabled": true,
         "https": true,
         "name": "LambdaLemon",
-        "path": "/plain"
+        "path": "/"
     },
     {
         "id": 69420,
